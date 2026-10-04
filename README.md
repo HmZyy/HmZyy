@@ -1,22 +1,42 @@
+### Hi, I'm Hamza
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hmzyy.gg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-zoghmar) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/HmZyyy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HmZyy) 
+Embedded systems & software engineer at **[Tilak.io](https://tilak.io)** in Toulouse, France.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HmZyy&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HmZyy&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HmZyy&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm into drones and autopilots: mainly **PX4** and **ArduPilot**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HmZyy&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+I love **Rust**, I tinker with my **Neovim** config more than I'd like to admit, and if a task can be automated with a **Bash** script, it will be. 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+I use **Arch**, btw.
 
-<!-- ### 😂 Random Dev Meme -->
-<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-zoghmar) [![YouTube](https://img.shields.io/badge/YouTube-7c3aed?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@HmZyy) [![Twitch](https://img.shields.io/badge/Twitch-7c3aed?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/HmZyyy) [![Instagram](https://img.shields.io/badge/Instagram-7c3aed?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hmzyy.gg)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=HmZyy&icon=5&color=0)](https://visitcount.itsvg.in)
+#### Tools I reach for
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,lua,js,ts,flutter,kotlin,java,neovim,arch&theme=dark&perline=13">
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,lua,js,ts,flutter,kotlin,java,neovim,arch&theme=dark&perline=13">
+</picture>
+
+<br/>
+
+#### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HmZyy&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=d4d4d8&icon_color=a78bfa&disable_animations=true&ring_color=a78bfa">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HmZyy&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=6d28d9&text_color=3f3f46&icon_color=7c3aed&disable_animations=true&ring_color=7c3aed" height="170">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HmZyy&layout=compact&disable_animations=true&count_private=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=d4d4d8">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HmZyy&layout=compact&disable_animations=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6d28d9&text_color=3f3f46" height="170">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HmZyy&disable_animations=true&hide_border=true&background=00000000&ring=a78bfa&fire=a78bfa&currStreakNum=a78bfa&currStreakLabel=a78bfa&sideNums=e4e4e7&sideLabels=d4d4d8&dates=a1a1aa&stroke=3f3f46">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=HmZyy&disable_animations=true&hide_border=true&background=00000000&ring=7c3aed&fire=7c3aed&currStreakNum=6d28d9&currStreakLabel=6d28d9&sideNums=18181b&sideLabels=3f3f46&dates=71717a&stroke=e4e4e7">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=HmZyy&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400">
+  <img alt="GitHub trophies" src="https://trophy.ryglcloud.net/?username=HmZyy&theme=flat&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400">
+</picture>
