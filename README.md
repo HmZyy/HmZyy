@@ -14,7 +14,7 @@ I use **Arch**, btw.
 #### Tools I reach for
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,lua,js,ts,flutter,kotlin,java,neovim,arch&theme=dark&perline=13">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust%2Cc%2Ccpp%2Ccs%2Cpython%2Clua%2Cjs%2Cts%2Cflutter%2Ckotlin%2Cjava%2Cneovim%2Carch&theme=dark&perline=13">
   <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,lua,js,ts,flutter,kotlin,java,neovim,arch&theme=dark&perline=13">
 </picture>
 
@@ -23,8 +23,8 @@ I use **Arch**, btw.
 #### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HmZyy&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=d4d4d8&icon_color=a78bfa&disable_animations=true&ring_color=a78bfa">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HmZyy&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=6d28d9&text_color=3f3f46&icon_color=7c3aed&disable_animations=true&ring_color=7c3aed" height="170">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HmZyy&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=d4d4d8&icon_color=a78bfa&disable_animations=true&ring_color=a78bfa">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HmZyy&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=6d28d9&text_color=3f3f46&icon_color=7c3aed&disable_animations=true&ring_color=7c3aed" height="170">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HmZyy&layout=compact&disable_animations=true&count_private=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=d4d4d8">
